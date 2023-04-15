@@ -1,6 +1,5 @@
 
-## Demo
-- [Click Me]((https://landing-page-eight-sepia.vercel.app/))
+
 
 <p align="center">
   <a href="https://singhkshitij.github.io/My-Landing-Page/">
@@ -13,7 +12,9 @@
   Minimal Portfolio Page Built with React
 </h3>
 
-
+## Demo
+- [Click Me](https://landing-page-eight-sepia.vercel.app/)
+- 
 ## Why?
 One fine day i was going through GitHub and found an awesome concept on [Sameer Faridi's Profile](https://github.com/sameerkali/) and saw that people really liked it and so did i. I really liked the minimalist approach and hence thought that i should take it a step forward. 
 
